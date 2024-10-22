@@ -1,0 +1,1 @@
+print("Lindor is better than Judge")
